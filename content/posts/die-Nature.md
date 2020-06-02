@@ -27,6 +27,35 @@ title: "Die Natur"
   * The wind is warm.
 * Magst du keine Bäume?
   * Do you not like trees?
-
-
-
+* Wir brauchen ein Feuer.
+  * We need a fire.
+* Die Blumen sind schön.
+  * The flowers are beautiful.
+* Ich sehe den Mond.
+  * I see the moon.
+* Feuer!
+  * Fire!
+* Die Luft
+  * The air
+* Die Erde hat einen Mond.
+  * The earth has a moon.
+* Eine Blume
+  * A flower
+* Wir brauchen ein Feuer.
+  * We need a fire.
+* Die Hüte haben Blumen.
+  * The hats have flowers.
+* Das Feuer ist nicht kalt.
+  * The fire is not cold.
+* Das Meer ist groß.
+  * The ocean is large.
+* Die Blume
+  * The flower
+* Sie sieht das Meer.
+  * She sees the sea.
+* Sie sieht den Mond.
+  * She sees the moon.
+* Der Vogel mag die Luft.
+  * The bird likes the air.
+* Die Blumen sind nicht klein.
+  * The flowers are not small.
