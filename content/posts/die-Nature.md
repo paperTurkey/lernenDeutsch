@@ -7,6 +7,29 @@ modified_by:
 published: 2020-06-02
 title: "Die Natur"
 ---
+## Schlüsselwörter
+| Englisch     | Deutsch    |
+|--------------|------------|
+| the tree     | der Baum   |
+| the trees    | die Bäume  |
+| the mountain | der Berg   |
+| the wind     | der Wind   |
+| the winds    | die Winde  |
+| the moon     | der Mond   |
+| the sky      | der Himmel |
+| the star     | der Stern  |
+| the stars    | die Sterne |
+| nature       | die Natur  |
+| the air      | die Luft   |
+| the flower   | die Blume  |
+| the flowers  | die Blumen |
+| the earth    | die Erde   |
+| the sun      | die Sonne  |
+| the fire     | das Feuer  |
+| the sea      | das Meer   |
+| the seas     | die Meere  |
+| to live      | leben      |
+| to fall      | fallen     |
 
 ## Runde Eins
 * Der Wind ist kalt.
@@ -59,3 +82,23 @@ title: "Die Natur"
   * The bird likes the air.
 * Die Blumen sind nicht klein.
   * The flowers are not small.
+* Die Enten laben.
+  * The ducks are alive.
+* Die Blumen fallen.
+  * The flowers are falling.
+* Er sieht den Himmel.
+  * He sees the sky.
+* Die Sterne sind klein.
+  * The stars are small.
+* Die Sonne ist ein Stern.
+  * The sun is a star.
+* Der Stern ist klein.
+  * The star is small.
+* Ich lebe.
+  * I live.
+* Die Sonne ist rund.
+  * The sun is round.
+* Du siehst den Himmel.
+  * You see the sky.
+* Der Himmel fällt.
+  * The sky is falling.
