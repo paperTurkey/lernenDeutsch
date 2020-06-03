@@ -32,7 +32,7 @@ publishdir = "docs"
 
     [languages.en.params.logo]
       logoText = "Lernen Deutsch"
-      logoHomeLink = "/"
+      logoHomeLink = "/lernenDeutsch"
     # or
     #
     # path = "/img/your-example-logo.svg"
