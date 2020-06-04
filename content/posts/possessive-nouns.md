@@ -85,6 +85,8 @@ title: "Possessive Nouns / Possessivnomen"
   * His wife is drinking milk.
 * Sein Schuh.
   * His shoe
+* Wir sind seine Kinder.
+  * We are his children.
 
 ### Unser (Our)
 * Usere Katze ist schnell.
@@ -95,6 +97,14 @@ title: "Possessive Nouns / Possessivnomen"
   * No, our food is cold.
 * Sind das unsere Orangen?
   * Are those our oranges?
+* Das ist unser Apfel.
+  * This is our apple.
+* Unsere Katze ist schnell.
+  * Our cat is fast.
+* Usere Hüte.
+  * Our hats
+* Unser Mädchen lernt.
+  * Our girl is learning.
 
 ### Ihr (Her / Their)
 * Ihr Haustier ist eine Ente.
@@ -102,6 +112,17 @@ title: "Possessive Nouns / Possessivnomen"
 * Ihr Hund frisst.
   * Their dog is eating.
 * Ihre Kinder lesen Bücher.
+  * Her children are reading books.
+* Ich trinke ihr Wasser.
+  * I am drinking her water.
+* Ihr Hund frisst.
+  * Their dog is eating.
+* Ihre Kinder lesen die Zeitung
+  * Her children are reading the newspaper.
+
+### Ihr (Polite Your [always capitalized])
+* Ihre Frau ist groß.
+  * Your wife is tall.
 
 ### Euer (Your)
 * Eure Blumen
@@ -110,3 +131,7 @@ title: "Possessive Nouns / Possessivnomen"
   * Your horse is beautiful.
 * Eure Kuh ist schön.
   * Your cow is beautiful.
+* Ist das euer Fisch?
+  * Is that your fish?
+* Eure Männer sind stark.
+  * Your men are strong.
