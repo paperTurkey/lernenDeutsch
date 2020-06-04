@@ -11,13 +11,13 @@ title: "Possessive Nouns / Possessivnomen"
 ## Schlüsselwörter
 | Personal Pronouns Personalpronomen | Possessive Pronouns Possessivnomen |
 |------------------------------------|------------------------------------|
-| ich                                | mein                               |
-| du                                 | dein                               |
-| er/es                              | sein                               |
-| sie (feminine)                     | ihr                                |
-| wir                                | unser                              |
-| ihr                                | euer                               |
-| sie (plural)                       | ihr                                |
+| ich (i)                            | mein (my)                          |
+| du  (you)                          | dein (your)                        |
+| er/es (He/It)                      | sein (his/its)                     |
+| sie (feminine) (she)               | ihr  (her)                         |
+| wir (we)                           | unser (our)                        |
+| ihr (you)                          | euer (your)                        |
+| sie (plural) (they)                | ihr (their)                          |
 
 |                | der Hund | das Insekt | die Katze | die Hunde |
 |----------------|----------|------------|-----------|-----------|
